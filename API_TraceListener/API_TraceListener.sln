@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_TraceListener", "API_TraceListener.csproj", "{6009ABA1-0713-48A9-851A-9332E740696C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_TraceListener.Logging", "..\API_TraceListener.Logging\API_TraceListener.Logging.csproj", "{19484A6F-D6F0-43E9-9E13-7A2C42E2B07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6009ABA1-0713-48A9-851A-9332E740696C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6009ABA1-0713-48A9-851A-9332E740696C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6009ABA1-0713-48A9-851A-9332E740696C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6009ABA1-0713-48A9-851A-9332E740696C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19484A6F-D6F0-43E9-9E13-7A2C42E2B07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19484A6F-D6F0-43E9-9E13-7A2C42E2B07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19484A6F-D6F0-43E9-9E13-7A2C42E2B07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19484A6F-D6F0-43E9-9E13-7A2C42E2B07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D72801E-A576-4F63-A1CB-AA397DA00B36}
+	EndGlobalSection
+EndGlobal
